@@ -664,6 +664,13 @@ section .title::after {
     background: none;
 }
 
+footer {
+    background-color: #000;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+
 
 /* responsive media query start */
 @media (max-width: 1104px) {
